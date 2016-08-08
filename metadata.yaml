@@ -1,0 +1,28 @@
+_repo: A-Trip-Abroad--13-An-Account-of-a-Journey-to-the-Earthly-Canaan-and-the-Land-of-the-Ancient-P__12679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Janes, Don Carlos
+    birthdate: 1877
+    deathdate: 1944
+    gutenberg_agent_id: '4497'
+    url: http://www.gutenberg.org/2009/agents/4497
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Churches of Christ -- Great Britain'
+- !lcsh 'Palestine -- Description and travel'
+- !lcsh 'Voyages and travels'
+- GITenberg
+title: "A Trip Abroad\r\nAn Account of a Journey to the Earthly Canaan and the Land\
+  \ of the Ancient Pharaohs; To Which Are Appended a Brief Consideration of the Geography\
+  \ and History of Palestine, and a Chapter on Churches of Christ in Great Britain"
+url: http://www.gutenberg.org/ebooks/12679
